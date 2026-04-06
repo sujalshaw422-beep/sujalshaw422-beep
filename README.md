@@ -23,6 +23,18 @@
 
 ---
 
+## 🔥 Featured Project
+
+### 🏥 Clinic Website  
+👉 [Live Demo](https://sujalshaw422-beep.github.io/Clinic/)  
+👉 [View Code](https://github.com/sujalshaw422-beep/Clinic)
+
+## 🛠️ Tech Stack
+HTML | CSS | Bootstrap | JavaScript  
+
+
+---
+
 ## 📈 Currently Learning
 
 * Advanced Laravel
