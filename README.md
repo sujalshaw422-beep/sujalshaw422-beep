@@ -18,7 +18,7 @@
 ## 🚀 Projects
 
 🔹 Laravel E-commerce (Coming Soon)
-🔹 Trustnews (Tailwind)
+🔹 Trustnews (Wordpress)
 🔹 Clinic (Bootstrap)
 
 ---
