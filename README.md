@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Sujal Shaw
 
-<!--
-**sujalshaw422-beep/sujalshaw422-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer
+🚀 I build modern, responsive websites & web apps using Laravel, Tailwind & WordPress
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+
+* 🌐 HTML, CSS, Bootstrap, Tailwind CSS
+* ⚙️ JavaScript
+* 🐘 PHP, Laravel
+* 📝 WordPress
+* 🔧 Git & GitHub
+
+---
+
+## 🚀 Projects
+
+🔹 Laravel E-commerce (Coming Soon)
+🔹 Portfolio Website (Tailwind)
+🔹 WordPress Blog
+
+---
+
+## 📈 Currently Learning
+
+* Advanced Laravel
+* API Development
+
+---
+
+## 📫 Contact Me
+
+📧 [sujalshaw422@gmail.com](mailto:sujalshaw422@gmail.com)
+
+---
+
+## 📌 Motto
+
+> Code. Create. Innovate. Repeat.
+
