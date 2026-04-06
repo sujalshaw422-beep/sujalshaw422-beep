@@ -18,8 +18,8 @@
 ## 🚀 Projects
 
 🔹 Laravel E-commerce (Coming Soon)
-🔹 Portfolio Website (Tailwind)
-🔹 WordPress Blog
+🔹 Trustnews (Tailwind)
+🔹 Clinic (Bootstrap)
 
 ---
 
